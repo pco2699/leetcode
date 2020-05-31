@@ -25,4 +25,3 @@ class Solution:
                     queue.append(adj)
 
         return len(res) == numCourses
-
